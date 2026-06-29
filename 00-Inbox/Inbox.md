@@ -24,3 +24,5 @@ tags: [inbox, capture]
 
 - [2026-06-29 21:51:40] () 研究一下 Hermes 跟 OpenClaw 哪个更适合个人 AI 助手
   - #inbox #
+
+## 2026-06-29 23:10 测试收尾
