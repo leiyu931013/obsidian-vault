@@ -15,3 +15,4 @@
 |---|---|---|
 | 2026-06-29 | 公众号 | auto-categorized |
 | 2026-06-29 | 公众号 | auto-categorized |
+| 2026-06-29 | Hermes-config | minimax vs minimax-cn 端点混用 |
