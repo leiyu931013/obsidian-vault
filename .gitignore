@@ -1,0 +1,18 @@
+# Obsidian
+.obsidian/workspace
+.obsidian/cache
+.obsidian/graph.json
+.trash/
+
+# 系统
+.DS_Store
+._*
+Thumbs.db
+
+# 临时
+*.swp
+*.tmp
+*.log
+
+# Spark sync 临时
+99-Spark-Sync/.tmp/

@@ -1,0 +1,8 @@
+{
+  "id": "obsidian-tasks",
+  "name": "Tasks",
+  "version": "7.0.0",
+  "minAppVersion": "0.13.0",
+  "description": "Task management",
+  "author": "Tasks Group"
+}

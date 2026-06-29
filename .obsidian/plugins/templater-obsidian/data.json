@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "templates_folder": "_templates",
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_folder_templates": false,
+  "folder_templates": []
+}

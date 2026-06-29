@@ -1,0 +1,17 @@
+{
+  "daily": {
+    "format": "YYYY-MM-DD",
+    "folder": "01-Daily",
+    "template": "_templates/\u4eca\u65e5\u5de5\u4f5c.md"
+  },
+  "weekly": {
+    "format": "YYYY-[W]WW",
+    "folder": "01-Daily",
+    "template": ""
+  },
+  "monthly": {
+    "format": "YYYY-MM",
+    "folder": "01-Daily",
+    "template": ""
+  }
+}
