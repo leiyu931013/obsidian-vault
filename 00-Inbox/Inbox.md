@@ -28,3 +28,5 @@ tags: [inbox, capture]
 ## 2026-06-29 23:10 测试收尾
 
 ## 2026-06-29 23:20 测试跨项目晋升
+
+[2026-06-29] [DECISION: codex CLI 0.142.4 + 双 relay 修复成 minimax-cn 端点, 老 client/cox-plu 残余清理掉] [ERROR: 401 login fail 1004 = 老 relay 仍走 api.minimax.chat (国际), 切到 api.minimaxi.com + MINIMAX_CN_API_KEY 后恢复] [PREFERENCE: codex exec 必须 57322 proxy 链路活, 启动前 lsof 验证双端口] [project: codex skill 升级到 2.0.0]
